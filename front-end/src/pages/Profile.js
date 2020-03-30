@@ -8,6 +8,7 @@ import './Profile.css';
 
 export default function Profile() {
     const [incidents, setIncidents] = useState([]);
+    
 
     const ongId = localStorage.getItem('ongId');
     const ongName = localStorage.getItem('ongName');
@@ -19,7 +20,8 @@ export default function Profile() {
                 Authorization: ongId,
             }
          }).then(response => {
-            setIncidents(response.data); 
+            setIncidents(response.data);
+           
         })
       }, [ongId]);
 
