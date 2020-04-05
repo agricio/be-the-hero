@@ -38,15 +38,17 @@ instaDev is a project that a clone the instagram feed app.
 
 <h3> 📱 Images of Project Mobile </br> </br>
   <p  align="center">
-  <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob1.png" width=30% />
-   <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob2.PNG" width=30% />
-   <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob3.PNG" width=30% />
+    <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob1.png" width=30% />
+    <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob2.PNG" width=30% />
+    <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob3.PNG" width=30% />
+    <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob4.PNG" width=30% />
+    <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob5.PNG" width=30% />
   </p>
  </h3>
  <h3> 🖱️ Image to Web Project </br> </br>
   <p  align="center">
-<img src="https://github.com/agricio/instaDev/blob/master/assets/web01.1.jpg?raw=true" width=80% />
-  <img src="https://github.com/agricio/instaDev/blob/master/assets/web03.png?raw=true" width=80% />
+    <img src=https://github.com/agricio/be-the-hero/blob/master/assets_git/web01.png width=80% />
+    <img src="https://github.com/agricio/instaDev/blob/master/assets/web03.png?raw=true" width=80% />
   </p>
  </h3>
 
