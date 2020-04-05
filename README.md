@@ -25,16 +25,15 @@
 
 This project was developed with the following technologies:
 
-- [Node.js](https://nodejs.org/en/)
-- [Socket.io](https://socket.io/)
-- [MongoDB](https://www.mongodb.com/)
+- [Node.js](https://nodejs.org/en/) 
+- [Sqlite3](https://www.sqlite.org/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
 ## 💻 The Project
 
-instaDev is a project that a clone the instagram feed app.
+Be the hero is a project that will connect peoples that cant will help and donate from Ogns. the aplication works when a Ong make the a register, she will register and spread cases in the sistem for the peoples can see him Web and mobile app. The people can see the cases and be ready to help by contacting us by email or whatsapp!  
 
 <h3> 📱 Images of Project Mobile </br> </br>
   <p  align="center">
@@ -48,7 +47,9 @@ instaDev is a project that a clone the instagram feed app.
  <h3> 🖱️ Image to Web Project </br> </br>
   <p  align="center">
     <img src=https://github.com/agricio/be-the-hero/blob/master/assets_git/web01.png width=80% />
-    <img src="https://github.com/agricio/instaDev/blob/master/assets/web03.png?raw=true" width=80% />
+    <img src=https://github.com/agricio/be-the-hero/blob/master/assets_git/web02.png width=80% />
+    <img src=https://github.com/agricio/be-the-hero/blob/master/assets_git/web03.png width=80% />
+    <img src=https://github.com/agricio/be-the-hero/blob/master/assets_git/web04.png width=80% />
   </p>
  </h3>
 
