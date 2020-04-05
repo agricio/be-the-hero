@@ -1,11 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/agricio/be-the-hero/master/assets_git/logo.png?raw=true" width=30% />
-  
  </h1>
  
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/radaelilucca/findevs">
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+  <img alt="GitHub language count  " src="https://img.shields.io/github/languages/count/radaelilucca/findevs">
+  <a href="https://github.com/Rocketseat/semana-omnistack-11/commits/master">
   </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -39,8 +38,9 @@ instaDev is a project that a clone the instagram feed app.
 
 <h3> 📱 Images of Project Mobile </br> </br>
   <p  align="center">
-  <img src="https://github.com/agricio/instaDev/blob/master/assets/mob01.png?raw=true" width=30% />
-  <img src="https://github.com/agricio/instaDev/blob/master/assets/mob02.png?raw=true" width=30% />
+  <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob1.png" width=30% />
+   <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob2.PNG" width=30% />
+   <img src="https://github.com/agricio/be-the-hero/blob/master/assets_git/mob3.PNG" width=30% />
   </p>
  </h3>
  <h3> 🖱️ Image to Web Project </br> </br>
