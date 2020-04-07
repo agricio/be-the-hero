@@ -33,7 +33,10 @@ This project was developed with the following technologies:
 
 ## 💻 The Project
 
-Be the hero is a project that will connect peoples that cant will help and donate from Ogns. the aplication works when a Ong make the a register, she will register and spread cases in the sistem for the peoples can see him Web and mobile app. The people can see the cases and be ready to help by contacting us by email or whatsapp!  
+Be the hero is a project that will connect peoples that cant will help and donate from Ogns. the aplication works when a Ong make the a register, she will register and spread cases in the sistem for the peoples can see him Web and mobile app. The people can see the cases and be ready to help by contacting us by email or whatsapp!
+
+This App use NodeJS in back-end and a relacional database SqLite to share the data. Use json API Rest to comunicate the back-end server with front-end biulded in ReactJS and the mobile app using React-Native and Expo CLI in the develop and run to any mobile plataforms.    
+
 
 <h3> 📱 Images of Project Mobile </br> </br>
   <p  align="center">
@@ -56,6 +59,7 @@ Be the hero is a project that will connect peoples that cant will help and donat
 ## 👨‍🏫 Run The Project
 
 You need execulte the commands for install the project dependencies this is nessecary por rum the aplications:
+The Project have 3 folders (back-end, front-end and mobile-expo) to the project works you will install the node dependencies tis way:
 
 <h4> Use NPM: </h4>
 
@@ -73,7 +77,7 @@ You need execulte the commands for install the project dependencies this is ness
 <h4> Front-end: </h4>
 
 ````
-<back-end fonder>: yarn start
+<front-end fonder>: yarn start src/app.js
 ````
 
 <h4> Back-end: </h4>
@@ -81,14 +85,11 @@ You need execulte the commands for install the project dependencies this is ness
 ````
 <back-end fonder>: node src/index.js
 ````
-<h5>
-For testing, use an http request client, such as Insomnia or Postman, and a Mongo, local, or MongoDb Atlas database.
-</h5>
-  
+
 <h4> Mobile-expo: </h4>
 
 ````
-expo start
+<mobile-expo fonder>: expo start
 ````
 
 <h5> 
@@ -99,14 +100,11 @@ For testing, use a physical device, or emulators like the XCode Simulator for iO
   
 For build the aplication in APK or IPA, it is necessary fill correctly the file App.Json. Consult the instructions in <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Expo documentation </a> for more informations.
 
-<h4> 🚩remember! re-name the file .env.example for .env, and fill the environment variables. </h4>
-</br>
-
 ## :memo: Licence
 
 this project are in MIT licence. [LICENSE](LICENSE.md) for more dectails.
 
- ## :phone: Contat
+ ## :phone: Contat-me
  
   <p>
     <a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/">
