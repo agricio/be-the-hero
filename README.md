@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 ## 💻 The Project
 
-Be the hero is a project that will connect peoples that cant will help and donate from Ogns. the aplication works when a Ong make the a register, she will register and spread cases in the sistem for the peoples can see him Web and mobile app. The people can see the cases and be ready to help by contacting us by email or whatsapp!
+Be the hero is a project that will connect peoples that cant will help and donate from OGN's. The aplication works when a ONG make the a register, she will register and spread cases in the sistem for the peoples can see him Web and mobile app. The people can see the cases and be ready to help by contacting us by email or whatsapp!
 
 This App use NodeJS in back-end and a relacional database SqLite to share the data. Use json API Rest to comunicate the back-end server with front-end biulded in ReactJS and the mobile app using React-Native and Expo CLI in the develop and run to any mobile plataforms.    
 
