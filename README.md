@@ -58,8 +58,7 @@ This App use NodeJS in back-end and a relacional database SqLite to share the da
 
 ## 👨‍🏫 Run The Project
 
-You need execulte the commands for install the project dependencies this is nessecary por rum the aplications:
-The Project have 3 folders (back-end, front-end and mobile-expo) to the project works you will install the node dependencies tis way:
+You need to execute the commands for install the project dependencies. This is necessary to run the applications: The Project has 3 folders (back-end, front-end and mobile-expo). To work the project, it requires to install the node dependencies this way
 
 <h4> Use NPM: </h4>
 
